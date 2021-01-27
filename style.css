@@ -74,8 +74,9 @@ button:hover {
 
 .card {
   background: white;
+  opacity: 0.95;
   width: 500px;
-  margin:0 auto;
+  margin:20px 20px;
   border-radius: 20px;
   border: 15px solid #f6f5f5;
   text-align: center;
