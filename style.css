@@ -1,7 +1,8 @@
 /*General settings */
 
 body {
-  background-color: #f6f5f5;
+  background-image:url(images/bg_laptop.png);
+  background-size: cover;
   font-family: 'Syne', sans-serif;
   color: #03506f;
   font-size: 15px;
@@ -47,7 +48,8 @@ h2 {
   border-radius: 50%;
   border-image: auto;
   padding: auto;
-  margin: auto;
+  margin-top: 50px;
+  margin: 0 auto;
   text-align: center;
 }
 
